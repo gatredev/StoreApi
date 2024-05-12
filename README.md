@@ -6,6 +6,6 @@ To solve issue with redundant calls to FakeStore Api on filtering by product tit
     1. Have installed .net6 SDK
     2. Have installed dotnet ef core CLI: https://learn.microsoft.com/en-us/ef/core/cli/dotnet
     3. Call "dotent run" in project folder to run application
-    4. Products endpoint: "/products"
+    4. Products endpoint: "/api/products"
 
 
